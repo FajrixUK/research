@@ -2,49 +2,55 @@
 
 [Back to Fajrix Research](README.md)
 
-This page describes the publication expectations we intend to apply to research shared here. It is a public overview; the method used for a particular study belongs with that study. It does not certify any existing article as having completed a particular review process.
+Fajrix Research aims to make the reasoning behind its work clear: the question being explored, the evidence available and the limits of any conclusion. These principles guide how we intend to develop and publish our research.
 
-## Start with a defined question
+As individual studies become ready to share, their companion materials will describe the methods, evidence and review used for that work. Readers can assess each publication on that basis.
 
-State the question, intended audience, scope and relevant time period. Explain what is being measured or examined and why the chosen method is suitable. Keep exploratory work distinguishable from a test of a previously specified proposition.
+## Research questions and scope
 
-## Make evidence traceable
+Our approach starts with a clearly defined research question, intended audience, scope and relevant time period. We aim to explain what a study examines, why it matters and why its chosen method is suitable.
 
-Prefer original sources where they are suitable. Record the source title, publisher, date, relevant location and any definitions needed to interpret it. For calculations, show the inputs and transformations that connect a source to the reported result.
+Exploratory research and tests of previously specified propositions serve different purposes. Making that distinction visible helps readers understand how a question developed and what the findings can support.
 
-Separate source observations from estimates, assumptions, forecasts and Fajrix's interpretation. If several publications repeat the same underlying evidence, make that relationship clear.
+## Evidence and traceability
 
-## Compare like with like
+Our preference is for original sources where they are suitable. Traceability means being able to connect a claim to its source, understand the relevant definitions and dates, and follow any calculations or transformations behind a reported result.
 
-Check definitions, units, time periods, population coverage and country attribution before drawing comparisons. Explain material differences that cannot be resolved. Missing information should remain visible as missing information.
+We aim to keep source observations, estimates, assumptions, forecasts and our own interpretation distinguishable. Several publications may draw on the same underlying evidence; understanding that relationship matters when assessing the strength of a conclusion.
 
-For AI evaluations, specify the task, inputs, scoring method, baseline and relevant configuration. For national comparisons, distinguish measures of spending, technical capability, adoption and value capture.
+## Comparability and context
 
-## Explain uncertainty and limitations
+Meaningful comparisons depend on compatible definitions, units, time periods, population coverage and attribution rules. Our approach places these details alongside the comparison, including material differences that remain unresolved and gaps in the available information.
 
-Identify what the evidence does not establish. Where relevant, examine sensitivity to assumptions, report failure cases and explain how results could change under different conditions. Distinguish an observed relationship from a supported causal explanation.
+For AI evaluations, the relevant context includes the task, inputs, scoring method, baseline and configuration. For national comparisons, spending, technical capability, adoption and value capture answer different questions. We aim to preserve those distinctions throughout the analysis.
 
-For synthetic data or controlled examples, explain their limited coverage of real-world conditions. A reproducible calculation can still depend on uncertain or incomplete inputs.
+## Uncertainty and limitations
 
-## Make the work inspectable
+Our aim is to communicate both what the evidence supports and what it leaves uncertain. Depending on the study, this may involve sensitivity analysis, alternative explanations, failure cases or an account of how different conditions could affect the findings.
 
-The supporting material should fit the type of publication:
+An observed relationship does not, by itself, establish cause and effect. Synthetic data and controlled examples also have limits in representing real-world conditions. Explaining these boundaries helps readers judge where a result is relevant, even when its calculations can be reproduced.
 
-| Publication type | Useful supporting material |
+## Transparency and reproducibility
+
+We intend to provide supporting material appropriate to each publication so that readers can inspect its reasoning and, where applicable, reproduce its analysis.
+
+| Publication type | Supporting material we aim to provide |
 | --- | --- |
 | Quantitative analysis | Source register, definitions, calculations or scripts, assumptions and expected outputs |
 | AI evaluation | Task specification, permitted test inputs, scoring logic, configuration, results and failure cases |
 | Conceptual framework | Definitions, reasoning, source basis, worked examples where useful, and boundaries of application |
 | Policy or strategic commentary | Dated sources, explicit assumptions, interpretation and alternative explanations |
 
-Where sharing is restricted, explain the limitation and provide source links or access instructions where possible. State reuse terms for released code, datasets and other materials as appropriate to each item, including any third-party restrictions.
+The extent of sharing will depend on the material and any access or reuse restrictions. Where relevant, companion materials will explain those limits, identify reuse terms and provide source links or access instructions. This makes the basis for inspection and reproduction explicit.
 
-## Review and correct
+## Review and corrections
 
-Check whether the conclusions follow from the evidence and whether a reader can follow the reasoning. Describe the review actually performed; use the term independent review only when an independent reviewer was involved.
+Our approach to review centres on whether conclusions follow from the evidence and whether readers can follow the reasoning. We intend each companion to explain the review actually performed, with independent review identified only where an independent reviewer was involved.
 
-Give substantive releases an identifiable version or date. Record corrections that affect findings, retain a clear change history and explain whether a revision changes a conclusion.
+We intend to make substantive releases identifiable by version or date and to document corrections that affect findings. A clear revision history helps readers understand what changed and whether it alters a conclusion.
 
-## Keep research status clear
+## Research maturity and application
 
-Label proposed work, exploratory findings and released companions accurately. A research question is not a result, and a reference example is not a statement of product readiness. Give each companion its own scope so readers can judge what it contributes.
+Clear publication status helps readers distinguish proposed work, exploratory findings and released research. Our aim is to make each companion's scope, maturity and intended use visible alongside its content.
+
+Research questions, conceptual designs and reference examples contribute in different ways. Their publication does not, on its own, establish a validated result or a product's readiness for operational use. Conclusions about suitability depend on the evidence and conditions documented for the particular work.

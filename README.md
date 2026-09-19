@@ -36,7 +36,7 @@ Future companions may include source registers, methodological notes, reproducib
 
 ## What matters to us
 
-We aim to make the path from evidence to conclusion clear: define the question, explain the method, distinguish observations from interpretation, and show where uncertainty remains. A result is most useful when readers can understand both what it supports and where it stops.
+We aim to make the path from evidence to conclusion clear through well-defined questions, transparent methods, a distinction between observations and interpretation, and an explicit account of uncertainty. A result is most useful when readers can understand both what it supports and where it stops.
 
 ## Connect with Fajrix
 

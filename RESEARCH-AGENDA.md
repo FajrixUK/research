@@ -16,7 +16,7 @@ Questions of interest include:
 - How can a financial explanation remain traceable to the records, assumptions and calculations behind it?
 - When does automation save meaningful effort, and when does verification create more work than it removes?
 
-Possible research outputs include focused workflow examples, synthetic document evaluations and comparative analysis of review strategies. A study should explain the task, input conditions, baseline, failure cases and the limits of generalising its results.
+Possible research outputs include focused workflow examples, synthetic document evaluations and comparative analysis of review strategies. For these studies, our aim is to make the task, input conditions, baseline and failure cases clear, together with the limits of generalising the results.
 
 ## 2. Dependable AI systems
 
@@ -30,7 +30,7 @@ Questions of interest include:
 - How can privacy and access controls be preserved across model, retrieval and orchestration boundaries?
 - What evidence helps distinguish a working demonstration from a system ready for a defined operational use?
 
-Possible research outputs include evaluation designs, continuity scenarios and small reference examples. Any measured result should identify the configuration, test conditions and limitations; a conceptual design should be labelled as such.
+Possible research outputs include evaluation designs, continuity scenarios and small reference examples. We intend to distinguish conceptual designs from measured results and to present any measurements with their configuration, test conditions and limitations.
 
 ## 3. National AI capability and strategic resilience
 
@@ -44,14 +44,14 @@ Questions of interest include:
 - How should ownership, operational control and external dependencies be considered in comparative analysis?
 - Under what institutional and economic conditions could another country's approach be adapted in the UK?
 
-Possible research outputs include country profiles, source comparisons, policy analysis and article companions. Comparisons should explain definitions, time periods, attribution rules and uncertainty. A funding measure should retain its meaning rather than being relabelled as market size or overall national capability.
+Possible research outputs include country profiles, source comparisons, policy analysis and article companions. Our approach to comparisons emphasises definitions, time periods, attribution rules and uncertainty. Funding, market size and overall national capability represent different concepts; preserving those distinctions is central to the questions we want to explore.
 
 ## Selecting a research question
 
 We intend to prioritise questions that connect practical relevance with answerable scope. A useful study needs a clear audience, suitable evidence, a defensible method and a result that can inform a decision.
 
-The scope of a publication should match what its evidence can support. Some questions call for experiments or calculations; others call for a structured review, conceptual analysis or clearly identified commentary.
+We aim to keep the scope of each publication aligned with what its evidence can support. Some questions call for experiments or calculations; others call for a structured review, conceptual analysis or clearly identified commentary.
 
 ## How this agenda will develop
 
-Study companions will be linked from the repository introduction when released. Their status, evidence cutoff and revision history should be visible alongside the work. The agenda itself can change through documented updates as Fajrix's research develops.
+Study companions will be linked from the repository introduction when released. We intend each companion to make its status, evidence cutoff and revision history visible alongside the work. The agenda itself can change through documented updates as Fajrix's research develops.
