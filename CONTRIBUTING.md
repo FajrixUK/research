@@ -6,7 +6,7 @@ We welcome specific corrections, relevant primary sources and thoughtful questio
 
 ## Corrections and source suggestions
 
-Open an issue in this repository and include:
+Use this repository's correction or proposal issue form and include:
 
 - The page, passage or research question you are referring to.
 - The correction, source or question you would like us to consider.
@@ -19,7 +19,21 @@ Use public, shareable information in issues. For an enquiry that needs a private
 
 Small documentation corrections can be proposed through a pull request. Explain the reason for the change and include supporting sources where relevant. For a substantial research contribution, open an issue to discuss the scope before preparing a large submission.
 
-We will need to establish provenance and appropriate reuse terms before incorporating externally contributed code, data or other substantive materials.
+## Evidence and verification
+
+Check factual claims against the original sources where suitable, including their dates, definitions and limitations. Distinguish reported observations from estimates, assumptions and interpretation. Link to evidence that readers can inspect and identify any access restrictions. Prefer a source link and an appropriately limited quotation to copying an entire third-party work.
+
+Verify calculations, links and any examples relevant to the change. Describe the checks actually completed in the pull request, including unresolved uncertainties. AI-assisted contributions require the same verification as other work: disclose material AI assistance and explain how the sources, reasoning and outputs were checked. Do not present invented citations or unverified generated claims as evidence.
+
+## Rights and provenance
+
+Submit only material you have the right to share publicly. Identify external sources, their applicable licence terms and any modifications, and preserve required notices. Do not include confidential information, credentials, personal financial records or unpublished material belonging to someone else.
+
+The [repository rights and reuse notice](LICENSE.md) describes the terms for material already published here. It is not a blanket contribution licence. Before incorporating substantive external writing, code, data or other material, maintainers and the contributor must establish provenance and agree appropriate reuse terms. A submission does not transfer copyright ownership to Fajrix or grant permission to use Fajrix branding.
+
+## Conduct and private reports
+
+Participation follows the shared [Fajrix code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md). Report security concerns through the [private security reporting process](https://github.com/FajrixUK/.github/blob/main/SECURITY.md), rather than in a public issue or pull request. The [support guidance](https://github.com/FajrixUK/.github/blob/main/SUPPORT.md) provides routes for other enquiries.
 
 ## Research collaboration
 
