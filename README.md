@@ -38,6 +38,12 @@ Future companions may include source registers, methodological notes, reproducib
 
 We aim to make the path from evidence to conclusion clear through well-defined questions, transparent methods, a distinction between observations and interpretation, and an explicit account of uncertainty. A result is most useful when readers can understand both what it supports and where it stops.
 
+## Participation and reuse
+
+Corrections, source suggestions and research proposals are welcome through our [contribution guidance](CONTRIBUTING.md). Participation follows the shared [Fajrix code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md). Security concerns should use the [private reporting routes](https://github.com/FajrixUK/.github/blob/main/SECURITY.md).
+
+This repository is publicly available for readers to explore our research direction. Its original Fajrix material is not offered under a blanket open-source or Creative Commons licence. The [rights and reuse notice](LICENSE.md) explains existing permissions, third-party material, brand assets and how to request further permission. Any future material released under separate terms will identify those terms explicitly.
+
 ## Connect with Fajrix
 
 [Website](https://fajrix.com) · [AI & ML on Hugging Face](https://huggingface.co/Fajrix) · [LinkedIn](https://www.linkedin.com/company/fajrix/)
