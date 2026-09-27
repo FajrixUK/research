@@ -25,6 +25,12 @@ Check factual claims against the original sources where suitable, including thei
 
 Verify calculations, links and any examples relevant to the change. Describe the checks actually completed in the pull request, including unresolved uncertainties. AI-assisted contributions require the same verification as other work: disclose material AI assistance and explain how the sources, reasoning and outputs were checked. Do not present invented citations or unverified generated claims as evidence.
 
+## Running documentation checks
+
+Before submitting documentation changes, follow the [documentation check instructions](.github/ci/README.md) to run the automated checks locally.
+
+A passing result confirms the automated checks completed successfully. Review sources, reasoning, calculations, external links, accessibility and reuse permissions separately, and describe the checks performed in your pull request.
+
 ## Rights and provenance
 
 Submit only material you have the right to share publicly. Identify external sources, their applicable licence terms and any modifications, and preserve required notices. Do not include confidential information, credentials, personal financial records or unpublished material belonging to someone else.
