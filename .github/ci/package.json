@@ -4,7 +4,9 @@
   "private": true,
   "type": "module",
   "description": "Validation tooling for Fajrix public documentation",
-  "engines": { "node": ">=24 <25" },
+  "engines": {
+    "node": ">=24 <25"
+  },
   "scripts": {
     "check": "node check-docs.mjs",
     "test": "node --test check-docs.test.mjs"
@@ -14,5 +16,10 @@
     "markdown-it": "15.0.2",
     "markdownlint": "0.41.1",
     "yaml": "2.9.1"
+  },
+  "overrides": {
+    "micromark-extension-math": {
+      "katex": "0.18.7"
+    }
   }
 }
