@@ -15,6 +15,12 @@ Use this repository's correction or proposal issue form and include:
 
 Use public, shareable information in issues. For an enquiry that needs a private conversation, contact [info@fajrix.com](mailto:info@fajrix.com).
 
+## Research maturity and publication proposals
+
+Before proposing a new study, review the [research agenda](RESEARCH-AGENDA.md), [public research register](RESEARCH-REGISTER.md) and [research approach](RESEARCH-APPROACH.md). A programme direction is not evidence that a study is active or completed. For a substantive research proposal, explain the question, intended audience, possible method, evidence availability, publication rights and limits on any claim.
+
+Published study companions should follow the [study-companion template](templates/STUDY-COMPANION.md). Contributions should distinguish measured observations from interpretations, label synthetic experiments accurately and avoid asserting that a research example is a released Fajrix product feature. Maintainers will record publication status and any independent review actually performed.
+
 ## Proposing a change
 
 Small documentation corrections can be proposed through a pull request. Explain the reason for the change and include supporting sources where relevant. For a substantial research contribution, open an issue to discuss the scope before preparing a large submission.

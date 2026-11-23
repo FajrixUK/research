@@ -4,52 +4,62 @@
   </a>
 </p>
 
-# Fajrix Research
+# Fajrix® Research
 
-**Understanding AI capability, financial intelligence and resilient systems.**
+**Financial intelligence you can explain. Systems you can trust.**
 
-Fajrix Research explores how artificial intelligence can create practical value for businesses, how the systems around it can remain dependable, and how countries develop and sustain AI capability.
+Fajrix Research investigates how financial information can support dependable decisions—and how the technology behind those decisions can remain accurate, accountable, secure and resilient. Our interests sit at the intersection of accounting, financial management, artificial intelligence, software engineering and operational resilience.
 
-Our perspective comes from Fajrix's work developing AI-native accounting and financial management software. We connect questions about models and data with the realities of financial workflows, human accountability and operational resilience.
+The programme is informed by Fajrix Limited's development of financial management and accounting technology, engineering experimentation, and experience in financial management and technology services. We aim to turn difficult practical questions into research that can be examined, challenged and, where appropriate, reproduced.
 
-[Research agenda](RESEARCH-AGENDA.md) · [Our approach](RESEARCH-APPROACH.md) · [Contribute](CONTRIBUTING.md) · [Read Fajrix Insights](https://insights.fajrix.com)
+**What this is—and is not:** Fajrix is developing its financial technology platform. This public repository describes research direction and publication standards; it is not the platform's source code, a catalogue of released product features, or evidence that a particular AI system has been validated for operational accounting use.
 
-## Our research direction
+[Research programmes](RESEARCH-AGENDA.md) · [Publication register](RESEARCH-REGISTER.md) · [Methods and standards](RESEARCH-APPROACH.md) · [Contribute](CONTRIBUTING.md) · [Fajrix Insights](https://insights.fajrix.com)
 
-### AI in accounting and financial management
+## Research programmes
 
-How can AI help people interpret business documents, reduce repetitive work and understand financial information? We are interested in accuracy, traceability and review mechanisms that make automation useful in practice.
+### 01 — Financial intelligence and accountable automation
 
-### Dependable AI systems
+How can financial documents, transactions and business information become understandable, verifiable inputs to better decisions? We examine document interpretation, accounting consistency, meaningful human review, traceable explanations and the costs of error.
 
-What does it take to keep an AI-enabled workflow reliable when its models, data or infrastructure change? Our interests include evaluation, model portability, security, privacy and continuity under disruption.
+### 02 — Transaction integrity and resilient systems
 
-### National AI capability and strategic resilience
+What must hold true when software, networks, providers or people fail? We explore transaction consistency, idempotency, recovery, secure delivery, operational continuity and evidence that a system behaved as intended.
 
-How do investment, technical capability, adoption and domestic value capture interact? We are interested in the UK's position, international comparisons and the conditions that make lessons transferable between countries.
+### 03 — Trustworthy AI and evaluation
 
-## What you can explore here
+How should models, retrieval, tools and deterministic checks be evaluated together rather than as isolated demonstrations? We consider privacy, access boundaries, model substitution, uncertainty, error severity and human accountability.
 
-This initial edition sets out our research agenda and the approach we intend to follow. It contains research questions and publication expectations; study-specific evidence, datasets and evaluation results will be added with their own scope and limitations as they become ready to share.
+### 04 — Strategic finance and AI capability
 
-Future companions may include source registers, methodological notes, reproducible analysis and evaluation resources. Published articles and commentary are available through [Fajrix Insights](https://insights.fajrix.com).
+How do financial technology, AI adoption and national technical capability shape business and economic choices? We explore cross-border context, strategic dependencies, UK and international comparisons, and the distinction between investment, adoption, capability and value capture.
 
-## What matters to us
+The [research agenda](RESEARCH-AGENDA.md) sets out questions and possible studies within each programme. These are directions for investigation, not claims of completed research.
 
-We aim to make the path from evidence to conclusion clear through well-defined questions, transparent methods, a distinction between observations and interpretation, and an explicit account of uncertainty. A result is most useful when readers can understand both what it supports and where it stops.
+## What is available today
 
-## Participation and reuse
+This edition contains the research agenda, our [methodological and publication approach](RESEARCH-APPROACH.md), a [public research register](RESEARCH-REGISTER.md), and guidance for contributors. **No study-specific results, datasets or evaluation benchmarks have yet been released in this repository.** The register makes this distinction explicit and will link to research companions when they are published.
 
-Corrections, source suggestions and research proposals are welcome through our [contribution guidance](CONTRIBUTING.md). Participation follows the shared [Fajrix code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md). Security concerns should use the [private reporting routes](https://github.com/FajrixUK/.github/blob/main/SECURITY.md).
+An engineering demonstration, an experimental observation and a validated research finding are not interchangeable. Where an experiment is informed by Fajrix's engineering work, we will identify what can be disclosed safely, which conditions were tested and what remains unproven. Private repositories, operational configurations and non-public business information remain outside the scope of this publication.
 
-This repository is publicly available for readers to explore our research direction. Its original Fajrix material is not offered under a blanket open-source or Creative Commons licence. The [rights and reuse notice](LICENSE.md) explains existing permissions, third-party material, brand assets and how to request further permission. Any future material released under separate terms will identify those terms explicitly.
+## How to assess our work
+
+We aim to publish with a clearly stated question, appropriate evidence, defined evaluation criteria, traceable calculations or reasoning, limitations and a dated revision history. We distinguish source observations from assumptions, estimates, scenarios and interpretation. Independent review is identified only when it actually occurred.
+
+The [research approach](RESEARCH-APPROACH.md) explains those expectations; the [study-companion template](templates/STUDY-COMPANION.md) provides a consistent starting point for individual releases. Publication is not a claim of regulatory approval, peer review or product readiness unless explicitly supported.
+
+## Participate and reuse
+
+We welcome corrections, primary sources, methodological criticism and well-scoped collaboration proposals. See [contribution guidance](CONTRIBUTING.md), the shared [code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md) and [private security reporting](https://github.com/FajrixUK/.github/blob/main/SECURITY.md).
+
+Public readability does not mean a blanket open-source or Creative Commons grant. The [rights and reuse notice](LICENSE.md) describes permissions and restrictions, including those relating to brand assets and third-party material. Individual future research artefacts may carry expressly stated separate terms.
 
 ## Connect with Fajrix
 
-[Website](https://fajrix.com) · [AI & ML on Hugging Face](https://huggingface.co/Fajrix) · [LinkedIn](https://www.linkedin.com/company/fajrix/)
+[Website](https://fajrix.com) · [Engineering perspective](https://fajrix.com/engineering) · [Fajrix Insights](https://insights.fajrix.com) · [AI and ML on Hugging Face](https://huggingface.co/Fajrix) · [LinkedIn](https://www.linkedin.com/company/fajrix/)
 
 For research enquiries and collaboration: [info@fajrix.com](mailto:info@fajrix.com).
 
 ---
 
-Fajrix is the brand of **Fajrix Limited**, registered in England and Wales, company number **15001279**.
+**Fajrix®** is a registered UK trade mark of **Fajrix Limited**, registered in England and Wales, company number **15001279**.
